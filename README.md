@@ -1,2 +1,2 @@
 # hello-world
-Tutorila tryout
+Tutorial tryout
